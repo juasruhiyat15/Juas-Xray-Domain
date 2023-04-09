@@ -21,9 +21,7 @@ exit 1
 fi
 DOMAIN=sukumas.live
 SUB_DOMAIN=${sub}.sukumas.live
-# CF_ID=resaananta42@gmail.com
 CF_ID=juasruhiyats22@gmail.com
-# CF_KEY=821d599ff7aeafbf73230ba3ac2f238f438f3
 CF_KEY=9602cec4f278fce2c236541366273e4e631a4 
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
