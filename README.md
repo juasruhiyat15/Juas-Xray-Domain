@@ -1,3 +1,3 @@
-# Mina-Xray-SSH
+# Juas-Xray-Domain
 
 Mina Twice cantik bet dah 
